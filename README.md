@@ -1,6 +1,6 @@
 ## No longer developed
 
-## Description ==
+## Description
 
 Script parses Apache's access_log for specific method URL,
 finds duplicate entries and sort them in the most frequent order.

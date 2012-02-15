@@ -1,11 +1,13 @@
 ## No longer developed
 
 ## Description ==
+
 Script parses Apache's access_log for specific method URL,
 finds duplicate entries and sort them in the most frequent order.
 Useful when you need to get all URLs from access_log.
 
 ## Usage
+
     ./script.py METHOD ORIGIN OUTPUT [REPETITION]
 
         == Parameters ==

@@ -83,7 +83,7 @@ def write_to_file(list):
     else:
       occur = line[0] + '\n'
     target_file.write(occur)
-    target_file.close()
+  target_file.close()
 
 # Script itself
 if __name__ == '__main__':
